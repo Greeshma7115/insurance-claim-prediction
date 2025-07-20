@@ -1,5 +1,5 @@
 Insurance Claim Prediction
-This project predicts the likelihood that a person will file an insurance claim and estimates the potential claim amount using machine learning. The system takes user details (age, gender, BMI, number of dependents, smoking status, region, etc.), preprocesses the data, and uses Random Forest models for both classification and regression.
+This project predicts the likelihood that a person will file an insurance claim using machine learning. The system takes user details (age, gender, BMI, number of dependents, smoking status, region, etc.), preprocesses the data, and uses Random Forest models for both classification and regression.
 
 Features:
 Predicts whether an insurance claim is likely.
